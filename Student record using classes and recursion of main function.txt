@@ -1,0 +1,65 @@
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Student No: 1
+Name: Uzair Ali
+Father's Name: Shaukat Ali
+Roll No: 24100990Ari
+GPA: 4
+Semester: 6
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Student No: 2
+Name: ali
+Father's Name: akbar
+Roll No: 123
+GPA: 3
+Semester: 1
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: Uzair
+Father's Name: Shaukat
+Roll No: 123arid109000
+GPA: 3.9
+Semester: 8
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: Uzair
+Father's Name: Shaukat ALI
+Roll No: 24-Ad-10009900
+GPA: 4
+Semester: 8
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: 
+Father's Name: 
+Roll No: 
+GPA: 1.3
+Semester: 1
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: Uzair Ali
+Father's Name: Shaukat Ali
+Roll No: 24-ARD-10000900
+GPA: 3.9
+Semester: 2
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: Ali
+Father's Name: Akbar
+Roll No: 125302940sseig;l;
+GPA: 4
+Semester: 2
+------------------------------------

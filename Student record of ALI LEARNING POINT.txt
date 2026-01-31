@@ -1,0 +1,18 @@
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: Ali Akbar
+Father's Name: Shaukat Ali
+Roll No: 24-Arid-1080
+GPA: 4
+Semester: 4
+------------------------------------
+============================================
+       STUDENT RECORD SYSTEM      
+============================================
+Name: Uzair Ali
+Father's Name: Shaukat Ali
+Roll No: 24-Arid-1090
+GPA: 4
+Semester: 2
+------------------------------------
